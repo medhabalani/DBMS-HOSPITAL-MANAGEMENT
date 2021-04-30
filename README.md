@@ -1,6 +1,6 @@
-# HOSPITAL-MANAGEMENT-SYSTEM
+# 	:gem: HOSPITAL-MANAGEMENT-SYSTEM 	:gem:
 
-## Abstract 
+## :pen: Abstract 
 
 A “Hospital Management System" is a computerized management system. This
 management system has been developed to form whole management system including
@@ -12,7 +12,7 @@ will help in storing, updating and retrieving the information through various us
 menu-driven modules.
 
 --------------------------------------------------------------------------------------------
-## Specific Technology can be used:
+## :computer: Specific Technology used:
 
 * Java
 * Swing,
@@ -20,7 +20,7 @@ menu-driven modules.
 
 ------------------------------------------------------------------------------------------------
 
-## Functional components of the project:
+## :memo: Functional components of the project:
 The project “Hospital Management System” is aimed to develop to maintain the
 day-to-day state of admission/discharge of Patients, List of Doctors (Consultants), List of
 medicines, Bills etc.
@@ -44,7 +44,7 @@ comprehensive research.
 approach. 
 
 ---------------------------------------------------------------------------------------------------
-## TEAM 
+## :heart:TEAM :heart:
 
 <table>
   <tr>
